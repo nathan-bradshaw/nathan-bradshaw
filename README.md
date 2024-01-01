@@ -37,8 +37,3 @@ A passionate full-stack developer based in Auburn, AL. Currently pursuing a degr
 Thanks for dropping by! Feel free to explore my repositories and leave a ⭐️ if you discover something intriguing.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nathan-bradshaw.nathan-bradshaw)
-
-<!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathan-bradshaw&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
