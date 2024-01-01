@@ -6,7 +6,7 @@
 # Hi there! 👋 I'm Nathan 
 
 A passionate full-stack developer based in Auburn, AL. Currently pursuing a degree in Software Engineering at **Auburn University**.
-<img src="https://img.freepik.com/premium-vector/programmer-coding-vector-illustration_619940-101.jpg" width="200" alt="Nathan's Avatar"/>
+<img src="https://img.freepik.com/premium-vector/programmer-coding-vector-illustration_619940-101.jpg" width="175" alt="Nathan's Avatar"/>
 
 <!-- Technologies & Tools Section -->
 ## 🔧 Technologies & Tools
