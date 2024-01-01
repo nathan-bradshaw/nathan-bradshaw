@@ -26,7 +26,7 @@ A passionate full-stack developer based in Auburn, AL. Currently pursuing a degr
 <!-- Connect Section -->
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-bradshaw/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanbrads/)
 
 <!-- Fun Facts Section -->
 ## ⚡ Fun Facts
