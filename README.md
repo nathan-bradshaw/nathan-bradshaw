@@ -17,11 +17,26 @@ A passionate full-stack developer based in Auburn, AL. Currently pursuing a degr
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!-- Learning Section -->
-## 🌱 I’m currently learning
+## 🌱 Currently Learning
 
 - **Python** - Excited to level up my skills in the world of snakes and code!
+- **React** - Exploring the fascinating world of React for modern web development.
+- **JavaScript** - Strengthening my foundation in the language that powers the web.
+- **HTML** - Building a solid understanding of the structure of web pages.
+- **Node.js** - Delving into server-side JavaScript for scalable and efficient applications.
+- **MongoDB** - Learning the ropes of NoSQL databases for flexible data management.
+
+<!-- Currently Working On Section -->
+## 🔨 Currently Working On
+
+- **CogniStudy** - A full-stack study assistant application.
 
 <!-- Connect Section -->
 ## 📫 Let's connect
