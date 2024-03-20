@@ -1,17 +1,18 @@
-<!-- Header Section -->
+<!-- Opening Section -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" alt="Coding GIF"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=5BEA0A&center=true&random=false&width=435&lines=Hello%2C+I+am+Nathan" /></a>
+</p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" alt="Coding GIF"/>
 </p>
 
-# Hi there! 👋 I'm Nathan 
+<!-- Connect Section -->
+## 📫 Let's connect
 
-A passionate full-stack developer based in Auburn, AL. Currently pursuing a degree in Software Engineering at **Auburn University**.
-<img src="https://img.freepik.com/premium-vector/programmer-coding-vector-illustration_619940-101.jpg" width="175" alt="Nathan's Avatar"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanbrads/)
 
-<!-- Technologies & Tools Section -->
-## 🔧 Technologies & Tools
 
-### Languages & Frameworks
+## Languages & Frameworks:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -23,31 +24,26 @@ A passionate full-stack developer based in Auburn, AL. Currently pursuing a degr
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- Learning Section -->
-## 🌱 Currently Learning
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-bradshaw)](https://github.com/anuraghazra/github-readme-stats)
 
-- **Python** - Excited to level up my skills in the world of snakes and code!
-- **React** - Exploring the fascinating world of React for modern web development.
-- **JavaScript** - Strengthening my foundation in the language that powers the web.
-- **HTML** - Building a solid understanding of the structure of web pages.
-- **Node.js** - Delving into server-side JavaScript for scalable and efficient applications.
-- **MongoDB** - Learning the ropes of NoSQL databases for flexible data management.
+<!-- Activity on GitHub Section -->
+## My Stats:
+<p align="center">
+  <a href="https://github.com/nathan-bradshaw">      
+  <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nathan-bradshaw&theme=dark&hide_border=true&stroke=f53b3b"/>
+  </a> 
+</p>
 
-<!-- Currently Working On Section -->
-## 🔨 Currently Working On
+<p align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=nathan-bradshaw&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
 
-- **CogniStudy** - A full-stack study assistant application.
 
-<!-- Connect Section -->
-## 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanbrads/)
-
-<!-- Fun Facts Section -->
-## ⚡ Fun Facts
-
-- Enthusiastic problem solver and algorithmic puzzle lover.
-- Sci-fi books and movies fan.
+## Top Respositorys:
+  <p align="left">
+    <a href="https://github.com/nathan-bradshaw/Visualization"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nathan-bradshaw&repo=Visualization&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/nathan-bradshaw/To-Do-Py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nathan-bradshaw&repo=To-Do-Py&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
 
 <!-- Closing Section -->
 Thanks for dropping by! Feel free to explore my repositories and leave a ⭐️ if you discover something intriguing.
