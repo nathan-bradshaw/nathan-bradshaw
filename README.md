@@ -39,7 +39,7 @@
 </p>
 
 
-## Top Respositorys:
+## Top Respositories:
   <p align="left">
     <a href="https://github.com/nathan-bradshaw/Visualization"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nathan-bradshaw&repo=Visualization&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/nathan-bradshaw/To-Do-Py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nathan-bradshaw&repo=To-Do-Py&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
