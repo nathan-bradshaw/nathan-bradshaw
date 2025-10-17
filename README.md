@@ -1,3 +1,4 @@
+![Hi I'm Nathan](hey.png)
 <pre>
 <a href="https://www.linkedin.com/in/nathanbrads/">[LinkedIn]</a>
 
